@@ -5,6 +5,12 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+title: "DRDO Project Intern",
+    cardImage: "assets/images/experience-page/eyrc2.png",
+    place: "e-Yantra IIT Bombay",
+    time: "(May, 2020 - present)",
+    desp: "<li>Worked on development of a Mobile Robot.</li> <li>Worked on hardware and software integration of the robot.</li> <li>Worked on PCB designing, Embedded Development, ROS.</li><li>Worked on Autonomous Navigation and Mapping of the robot.</li>",
+  },
     title: "e-Yantra Summer Intern",
     cardImage: "assets/images/experience-page/eyrc2.png",
     place: "e-Yantra IIT Bombay",

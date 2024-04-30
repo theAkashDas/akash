@@ -4,10 +4,17 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
-  {
+{
+    title: "Keysight Technologies R&D Intern",
+    cardImage: "assets/images/experience-page/keysight.png",
+    place: "Gurugram",
+    time: "(Feb 2023 - August 2023)",
+    desp: "<li>Here I have mainly been responsible for testing and validating some part of a Keysight’s software</li><li>Got basic hands on knowledge of Spectrum Analyzer, Oscilloscopes and some knowledge on ACP measurement</li>",
+  },  
+{
     title: "DRDO Project Intern",
     cardImage: "assets/images/experience-page/drdo.png",
-    place: "Bangalore",
+    place: "CAIR, DRDO, Bangalore",
     time: "(Dec, 2022 - Feb 2023)",
     desp: "<li>Worked on development and testing of a LVI odometry for Mobile Robot.</li> <li>Worked on Camera Calibration, ROS and 3D lidar</li><li>Worked on Autonomous Navigation and Mapping of the robot.</li>",
   },
@@ -21,7 +28,7 @@ const exp = [
   {
     title: "Embedded Developer Intern",
     cardImage: "assets/images/experience-page/AltorLogo.jpg",
-    place: "Altor Smart Helmet",
+    place: "Altor Smart Helmet, Kolkata",
     time: "(Nov 2020 - Jan 2022)",
     desp: "<li>Worked on different microcontroller coding</li><li>Worked on sensor integration and testing</li><li>Worked on debugging and testing of the whole system</li>",
   },

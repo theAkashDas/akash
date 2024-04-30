@@ -6,16 +6,16 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "DRDO Project Intern",
-    cardImage: "assets/images/experience-page/eyrc2.png",
-    place: "e-Yantra IIT Bombay",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked on development of a Mobile Robot.</li> <li>Worked on hardware and software integration of the robot.</li> <li>Worked on PCB designing, Embedded Development, ROS.</li><li>Worked on Autonomous Navigation and Mapping of the robot.</li>",
+    cardImage: "assets/images/experience-page/drdo.png",
+    place: "Bangalore",
+    time: "(Dec, 2022 - Feb 2023)",
+    desp: "<li>Worked on development and testing of a LVI odometry for Mobile Robot.</li> <li>Worked on Camera Calibration, ROS and 3D lidar</li><li>Worked on Autonomous Navigation and Mapping of the robot.</li>",
   },
 {
     title: "e-Yantra Summer Intern",
     cardImage: "assets/images/experience-page/eyrc2.png",
     place: "e-Yantra IIT Bombay",
-    time: "(May, 2020 - present)",
+    time: "(May, 2022 - July 2022)",
     desp: "<li>Worked on development of a Mobile Robot.</li> <li>Worked on hardware and software integration of the robot.</li> <li>Worked on PCB designing, Embedded Development, ROS.</li><li>Worked on Autonomous Navigation and Mapping of the robot.</li>",
   },
   {
@@ -24,13 +24,6 @@ const exp = [
     place: "Altor Smart Helmet",
     time: "(Nov 2020 - Jan 2022)",
     desp: "<li>Worked on different microcontroller coding</li><li>Worked on sensor integration and testing</li><li>Worked on debugging and testing of the whole system</li>",
-  },
-  {
-    title: "Junior Researcher",
-    cardImage: "assets/images/experience-page/iedc.png",
-    place: "Innovation and Entrepreneurship Development Cell",
-    time: "(March, 21 - Jan, 22)",
-    desp: "<li>Worked on different Robotics and Embedded System Projects</li><li>Worked on Robot Operating System</li><li>Worked on Depth Cameras and LIDAR</li><li>Worked on various microcontroller, microprocessor based projects</li>",
   },
 ];
 
